@@ -1,0 +1,14 @@
+.center{
+    display: block;
+    margin-left: 600px;
+    margin-top: -60px;
+    margin-right: -40px;
+    
+    width: 0%;
+}
+.src{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
